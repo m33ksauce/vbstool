@@ -6,5 +6,6 @@ namespace VBSTool
         public static int LastNameCol = 1;
         public static int ParentFirstNameCol = 28;
         public static int ParentLastNameCol = 29;
+        public static int AssignedToCrewCol = 27;
     }
 }
